@@ -1,0 +1,12 @@
+# Keep local/private working files out of the public repo
+*.zip
+*.pdf
+*.docx
+*.xlsx
+*.csv~
+*PRIVATE*
+*private*
+flagged_modeling_feedback*
+__pycache__/
+.DS_Store
+Thumbs.db
